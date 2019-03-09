@@ -1,2 +1,2 @@
-# expose
-The project will provide efficient tools for vulnerability analysis using information from different vulnerability data sources
+# Data 
+The data used for the analysis (tables and graphs) is stored here for cross checking the correctness of the analysis
